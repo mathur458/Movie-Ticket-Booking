@@ -6,6 +6,11 @@ A simple **Python-based movie ticket booking system** using Tkinter, where users
 - Choose their seats from an interactive seat layout.
 - See booking details and confirm their reservation.
 
+## 📸 Screenshot
+![Movie Information](s1.png)
+![Seat Booking](s2.png)
+![Confirmation](s3.png)
+
 ## 🛠️ Technologies Used
 - **Python** (Core logic)
 - **Tkinter** (GUI for seat selection)
