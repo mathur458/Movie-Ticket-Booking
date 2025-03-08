@@ -10,6 +10,7 @@ A simple **Python-based movie ticket booking system** using Tkinter, where users
 ![Movie Information](s1.png)
 ![Seat Booking](s2.png)
 ![Confirmation](s3.png)
+![Database View](s4.png)
 
 ## 🛠️ Technologies Used
 - **Python** (Core logic)
