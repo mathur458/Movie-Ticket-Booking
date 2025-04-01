@@ -1,5 +1,11 @@
 # 🎟️ Movie Ticket Booking System
 
+**Key Points:**
+Developed a GUI-based movie ticket booking system using Tkinter & Python.
+Integrated MySQL database for storing booking details (movie name, seats, total price). 
+Implemented CRUD operations (Create, Read, Update, Delete) for database management.
+Designed an interactive seat selection system with real-time data storage.
+
 A simple **Python-based movie ticket booking system** using Tkinter, where users can:
 - Select a movie from a dropdown menu.
 - Enter the number of tickets.
